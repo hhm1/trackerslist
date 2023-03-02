@@ -1,6 +1,6 @@
 [English](https://github.com/hhm1/trackerslist/blob/master/README-EN.md)
 # trackerslist
-这是一个tracker集合
+这是一个tracker集合，不定时更新
 # 感谢
 感谢以下项目提供部分tracker 
 [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection)  
