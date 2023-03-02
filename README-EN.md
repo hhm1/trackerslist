@@ -1,6 +1,6 @@
 [简体中文](https://github.com/hhm1/trackerslist/blob/master/README.md)
 # trackerslist
-This is a list of bittorret trackers
+This is a list of bittorret trackers and it is irregular update
 # Thanks
 Thanks these repository for this project:  
 [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection)  
