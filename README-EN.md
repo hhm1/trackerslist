@@ -1,6 +1,6 @@
 # trackerslist
 This is a list of bittorret trackers
-Thanks these repository for this repository
+Thanks these repository for this project
 [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection)
 [ngosang/trackerslist](https://github.com/ngosang/trackerslist)
 # Introduce
