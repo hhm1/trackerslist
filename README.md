@@ -8,4 +8,4 @@
 # 介绍
 这个项目搜集来自互联网的tracker(来源：搜索引擎，资源分享站，论坛等)
 # 怎么使用
-你可以复制[hhm1.github.io/trackerslist/all.txt](hhm1.github.io/trackerslist/all.txt) 然后粘贴到bt下载器上，如果你对这个项目感兴趣的话，请给⭐
+你可以复制[https://hhm1.github.io/trackerslist/all.txt](https://hhm1.github.io/trackerslist/all.txt) 然后粘贴到bt下载器上，如果你对这个项目感兴趣的话，请给⭐
